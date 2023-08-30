@@ -1,0 +1,29 @@
+body {
+    padding: 50px 100px;
+    background-color: blanchedalmond;
+}
+h1 {
+    background-color: rgb(52, 184, 114);
+    text-align: center;
+    padding: 25px 25px;
+    margin: 10px;
+}
+img {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    bottom: 50px;
+}
+#dev {
+    margin: 20px;
+    font-size: 25px;
+    padding: 20px;
+    width: 900px;
+    height: 300px;
+}
+p{
+    background-color: rgb(56, 153, 153);
+    font-size: 30px;
+    text-align: center;
+    padding: 20px 20px;
+}
